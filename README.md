@@ -66,6 +66,4 @@ Se deseja contribuir com este projeto, siga os passos abaixo:
 4. Envie para o repositório remoto (`git push origin minha-feature`)
 5. Abra um Pull Request
 
-## Contato
 
-Para mais informações, entre em contato por e-mail: smfs@cin.ufpe.br ou abra uma issue no repositório.
